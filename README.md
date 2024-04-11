@@ -6,4 +6,4 @@ please see [the code of conduct](code_of_conduct.md), obtained from [Contributor
 
 please see [our contribution guidelines](CONTRIBUTING.md).
 
-please see [our licence](LICENCSE).
+please see [our licence](LICENSE).
